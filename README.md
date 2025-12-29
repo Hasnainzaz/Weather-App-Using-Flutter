@@ -175,6 +175,7 @@ Implemented using Flutter’s `ThemeMode`.
 ## 👨‍💻 Author
 
 Hasnain Zaz
+
 Flutter Developer | UI Enthusiast
 
 ---
@@ -182,4 +183,5 @@ Flutter Developer | UI Enthusiast
 ## ⭐ License
 
 This project is for educational and learning purposes.
+
 
